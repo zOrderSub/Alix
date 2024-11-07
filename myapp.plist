@@ -11,33 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://zordersub.github.io/Alix/origin_wxk_ios_priority_empty_fill2KP65MN6C2.ipa</string>
-                        <!-- https://pro.***.com.cn:30010/app-prod.ipa ipa包可以下载的路径 
-                             必须是https服务 不能使用ip，必须使用域名访问
-                        -->
-                    </dict>
-                    <dict>
-                        <key>kind</key>
-                        <string>full-size-image</string>
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>https://zordersub.github.io/Alix/AppIcon60x60@2x.png</string>
-                        <!-- https://pro.***.com.cn:30010/dcloud_logo-2x.png png图片的下载路径 
-                             必须是https服务 不能使用ip，必须使用域名访问
-                        -->
+                        <string>http://192.168.23.22:8080/origin_wxk_ios_priority_empty_fill2KP65MN6C2.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.blockpuzzle.us.ios</string>
+                    <string>com.ceshi.ad.jishu.zy</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>Block Blast!</string>
+                    <string>bblock!</string>
                 </dict>
             </dict>
         </array>
